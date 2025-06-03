@@ -53,6 +53,6 @@ cd litas_bot
 Ctrl+A然后按D键
 4、相关命令
 # 从新进入会话
-screen -r aigaea
+screen -r litas
 # 关闭会话
-screen -X -S aigaea kill
+screen -X -S litas kill
